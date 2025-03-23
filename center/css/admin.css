@@ -1,0 +1,36 @@
+body {
+    display: flex;
+    flex-wrap: wrap;
+}
+form {
+    gap: 10px;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+form input {
+    padding: 1%;
+    outline: none;
+    width: 30%;
+    border: 1px solid black;
+    font-size: 22px;
+}
+form input[type="submit"] {
+    cursor: pointer;
+    width: 8%;
+    background-color: transparent;
+}
+.applications a {
+    color: blue;
+}
+.applications {
+    margin: 15px;
+    display: flex;
+    flex-direction: column;
+    padding: 1%;
+    width: 20%;
+    border: 1px solid black;
+}

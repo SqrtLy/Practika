@@ -1,0 +1,38 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+  <loc>http://localhost/center/index.php/</loc>
+  <lastmod>2025-02-23T11:30:00+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost/center/working.php/</loc>
+  <lastmod>2025-02-23T11:30:00+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>http://localhost/center/about.php/</loc>
+  <lastmod>2025-02-23T11:30:00+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>http://localhost/center/courses.php/</loc>
+  <lastmod>2025-02-23T11:30:00+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>http://localhost/center/form.php/</loc>
+  <lastmod>2025-02-23T11:30:00+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>http://localhost/center/contacts.php/</loc>
+  <lastmod>2025-02-23T11:30:00+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+</urlset>

@@ -1,0 +1,8 @@
+User-agent: *
+
+Allow: /public
+
+Disallow: /css
+Disallow: /js
+
+Sitemap: http://localhost/sitemap.xml

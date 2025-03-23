@@ -1,0 +1,26 @@
+main {
+    justify-content: space-between;
+}
+.about {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 60%;
+}
+.group {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.group div {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    border-radius: 16px;
+    width: 200px;
+    height: 200px;
+}
+.group div span:first-child {
+    font-size: 50px;
+    font-weight: bold;
+}

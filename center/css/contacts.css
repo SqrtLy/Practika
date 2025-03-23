@@ -1,0 +1,8 @@
+main {
+    justify-content: space-around;
+}
+main div:first-child {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}

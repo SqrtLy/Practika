@@ -1,0 +1,14 @@
+main div {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+main ul {
+    width: 35%;
+    padding: 1%;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+main li {
+    margin: 10px;
+}

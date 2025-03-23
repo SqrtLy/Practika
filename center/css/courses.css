@@ -1,0 +1,38 @@
+main {
+    margin-top: 5%;
+}
+
+main p {
+    width: 70%;
+}
+main div {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+main ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+main ul li {
+    padding: 1%;
+    height: 200px;
+    width: 500px;
+    border-radius: 16px;
+    box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    color: white;
+}
+main ul li:nth-child(1) {
+    background-color: rgba(170, 170, 170, 0.8);
+}
+main ul li:nth-child(2) {
+    background-color: rgba(255, 189, 66, 0.8);
+}
+main ul li:nth-child(3) {
+    background-color: rgba(137, 137, 255, 0.8);
+}
+main ul li h3 {
+    font-size: 32px;
+    margin-bottom: 20px;
+}

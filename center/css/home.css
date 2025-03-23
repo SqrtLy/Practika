@@ -1,0 +1,24 @@
+main div {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+main p {
+    width: 80%;
+}
+main ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+main li {
+    padding: 16px;
+    color: white;
+    background-color: black;
+    border-radius: 16px;
+}
+main li:nth-child(2n) {
+    color: black;
+    background-color: white;
+    border: 2px solid black;
+}
